@@ -107,9 +107,9 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
    Eu quero me cadastrar no site de troca de livros,
    Para que eu possa começar a participar da comunidade de trocas de livros.
    
-  Critério de Aceitação:
-   .O sistema deve permitir que eu crie uma conta fornecendo informações básicas como nome, email e senha.
-   .Eu devo poder acessar minha conta usando as credenciais cadastradas
+  *Critério de Aceitação:
+   **.O sistema deve permitir que eu crie uma conta fornecendo informações básicas como nome, email e senha.
+   **.Eu devo poder acessar minha conta usando as credenciais cadastradas
  
 **3.** Como uma ávida leitora,
    Eu quero listar os livros que desejo trocar,
