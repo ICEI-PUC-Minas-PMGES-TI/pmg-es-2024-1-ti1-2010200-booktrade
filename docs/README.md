@@ -99,30 +99,46 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 
 ## Histórias de Usuários
 
-1. **Maria, a Apaixonada por Livros:**
-   - Como uma ávida leitora, Maria sempre está em busca de novos livros para alimentar sua paixão pela leitura.
-   - Desejo encontrar uma maneira econômica e conveniente de expandir sua coleção de livros sem gastar muito dinheiro.
-   - Para isso, Maria se cadastrou no site de troca de livros. Ela adora a facilidade de listar os livros que deseja trocar e navegar pela variedade de títulos disponíveis. Graças ao site, Maria conseguiu adquirir vários novos livros e compartilhar suas recomendações com outros membros da comunidade.
+**1.** Como uma ávida leitora,
+   Eu quero encontrar uma maneira econômica e conveniente de expandir minha coleção de livros,
+   Para que eu possa alimentar minha paixão pela leitura sem gastar muito dinheiro.
 
-2. **João, o Estudante Universitário:**
-   - Como estudante universitário, João está constantemente em busca de recursos acadêmicos para seus estudos.
-   - Desejo encontrar uma maneira acessível de obter os livros didáticos necessários para seus cursos, sem gastar uma fortuna.
-   - Para isso, João descobriu o site de troca de livros. Ele ficou impressionado com a variedade de títulos disponíveis e a facilidade de organizar trocas com outros estudantes. Graças ao site, João economizou dinheiro em livros didáticos e conheceu outros estudantes com interesses semelhantes.
+**2.** Como uma ávida leitora,
+   Eu quero me cadastrar no site de troca de livros,
+   Para que eu possa começar a participar da comunidade de trocas de livros.
+   
+  Critério de Aceitação:
+   O sistema deve permitir que eu crie uma conta fornecendo informações básicas como nome, email e senha.
+   Eu devo poder acessar minha conta usando as credenciais cadastradas
+ 
+**3.** Como uma ávida leitora,
+   Eu quero listar os livros que desejo trocar,
+   Para que outros usuarios possam ver os títulos que estou oferecendo.
+   
+  Critério de Aceitação:
+   Eu devo poder adicionar livros à minha lista de troca, inserindo informações como título, autor e condição do livro.
+   O sistema deve permitir que eu edite ou remova livros da minha lista de troca a qualquer momento.
+   Os livros listados devem ser visíveis para outros usuarios do site.
 
-3. **André, o Entusiasta de Ficção Científica:**
-   - Como entusiasta de ficção científica, André está sempre em busca dos últimos lançamentos e clássicos do gênero.
-   - Desejo trocar minhas obras favoritas por novos títulos que ainda não li.
-   - Para isso, André se cadastrou no site de troca de livros. Ele ficou impressionado com a diversidade de obras disponíveis e encontrou outros fãs do gênero para realizar trocas. Graças ao site, André expandiu sua coleção de ficção científica e descobriu novos autores.
 
-4. **Isabela, a Professora de História:**
-   - Como professora de história, Isabela está sempre em busca de livros e materiais para enriquecer suas aulas.
-   - Desejo adquirir livros didáticos e obras de referência para meus alunos sem exceder o orçamento da escola.
-   - Para isso, Isabela se cadastrou no site de troca de livros. Ela encontrou uma variedade de títulos acadêmicos disponíveis e compartilhou recursos com outros educadores. Graças ao site, Isabela adquiriu novos materiais para suas aulas sem exceder o orçamento da escola.
+**4.** Como uma ávida leitora,
+   Eu quero navegar pela variedade de títulos disponíveis no site,
+   Para que eu possa encontrar livros que me interessam para troca.
+ 
+  Critério de Aceitação:
+   O sistema deve oferecer uma funcionalidade de busca por título ou gênero.
+   Eu devo poder visualizar detalhes dos livros disponíveis, como descrição, autor e condição do livro.
+   A interface deve ser intuitiva e permitir fácil navegação entre os diferentes livros listados.
 
-5. **Rafael, o Curioso por Diversidade Cultural:**
-   - Como curioso por diversidade cultural, Rafael está sempre interessado em explorar diferentes culturas e perspectivas.
-   - Desejo acessar uma variedade de livros sobre culturas, tradições e idiomas do mundo.
-   - Para isso, Rafael se cadastrou no site de troca de livros. Ele ficou fascinado com a diversidade de títulos disponíveis, expandindo seus horizontes e enriquecendo sua compreensão da diversidade cultural global.
+
+**5.** Como uma ávida leitora,
+   Eu quero adquirir novos livros através de trocas com outros membros,
+   Para que eu possa expandir minha coleção de forma econômica.
+
+  Critério de Aceitação:
+   Eu devo poder solicitar uma troca de livros com outro membro.
+   O sistema deve notificar o outro membro da minha solicitação de troca.
+   Eu devo poder acompanhar o status das minhas solicitações de troca e receber notificações sobre o progresso.
 
 
 ## Requisitos
@@ -130,12 +146,15 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 
 Requisitos Funcionais (RF):<br>
 RF1: Leitores e fornecedores poderão se cadastrar. <br>
-RF2: Leitores e fornecedores poderão negociar dentro do sistema. <br>
+RF2: Leitores e fornecedores poderão negociar dentro do sistema através do site. <br>
 RF3: Leitores poderão consultar livros. <br>
-RF4: Fornecedores poderão cadastrar livros no sistema para troca ou venda.<br>
+RF4: Fornecedores poderão cadastrar livros no sistema para troca.<br>
 RF5: Leitores poderão avaliar Fornecedores.<br> 
 RF6: Fornecedores poderão avaliar Leitores<br> 
-RF7: Leitores poderão filtrar a busca de livros por gênero literário.<br>
+RF7: Leitores poderão ver a avaliação dos Fornecedores.<br>
+RF8: Leitores poderão filtrar a busca de livros por gênero literário.<br>
+RF9: Usuarios poderão atualizar suas informações.
+
 
 Requisitos Não Funcionais (RNF): <br>
 RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. <br>
