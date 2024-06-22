@@ -107,18 +107,18 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
    Eu quero me cadastrar no site de troca de livros,
    Para que eu possa começar a participar da comunidade de trocas de livros.
    
-  *Critério de Aceitação:
-   **.O sistema deve permitir que eu crie uma conta fornecendo informações básicas como nome, email e senha.
-   **.Eu devo poder acessar minha conta usando as credenciais cadastradas
+  Critério de Aceitação:
+   * O sistema deve permitir que eu crie uma conta fornecendo informações básicas como nome, email e senha.<br>
+   * Eu devo poder acessar minha conta usando as credenciais cadastradas.<br>
  
 **3.** Como uma ávida leitora,
    Eu quero listar os livros que desejo trocar,
-   Para que outros usuarios possam ver os títulos que estou oferecendo.
+   Para que outros usuarios possam ver os títulos que estou oferecendo.<br>
    
   Critério de Aceitação:
-   Eu devo poder adicionar livros à minha lista de troca, inserindo informações como título, autor e condição do livro.
-   O sistema deve permitir que eu edite ou remova livros da minha lista de troca a qualquer momento.
-   Os livros listados devem ser visíveis para outros usuarios do site.
+   * Eu devo poder adicionar livros à minha lista de troca, inserindo informações como título, autor e condição do livro.<br>
+   * O sistema deve permitir que eu edite ou remova livros da minha lista de troca a qualquer momento.<br>
+   * Os livros listados devem ser visíveis para outros usuarios do site.
 
 
 **4.** Como uma ávida leitora,
@@ -126,9 +126,9 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
    Para que eu possa encontrar livros que me interessam para troca.
  
   Critério de Aceitação:
-   O sistema deve oferecer uma funcionalidade de busca por título ou gênero.
-   Eu devo poder visualizar detalhes dos livros disponíveis, como descrição, autor e condição do livro.
-   A interface deve ser intuitiva e permitir fácil navegação entre os diferentes livros listados.
+   * O sistema deve oferecer uma funcionalidade de busca por título ou gênero.<br>
+   * Eu devo poder visualizar detalhes dos livros disponíveis, como descrição, autor e condição do livro.<br>
+   * A interface deve ser intuitiva e permitir fácil navegação entre os diferentes livros listados.
 
 
 **5.** Como uma ávida leitora,
@@ -136,30 +136,30 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
    Para que eu possa expandir minha coleção de forma econômica.
 
   Critério de Aceitação:
-   Eu devo poder solicitar uma troca de livros com outro membro.
-   O sistema deve notificar o outro membro da minha solicitação de troca.
-   Eu devo poder acompanhar o status das minhas solicitações de troca e receber notificações sobre o progresso.
+   * Eu devo poder solicitar uma troca de livros com outro membro.<br>
+   * O sistema deve notificar o outro membro da minha solicitação de troca.<br>
+   * Eu devo poder acompanhar o status das minhas solicitações de troca e receber notificações sobre o progresso.
 
 
 ## Requisitos
 
 
-Requisitos Funcionais (RF):<br>
-RF1: Leitores e fornecedores poderão se cadastrar. <br>
-RF2: Leitores e fornecedores poderão negociar dentro do sistema através do site. <br>
-RF3: Leitores poderão consultar livros. <br>
-RF4: Fornecedores poderão cadastrar livros no sistema para troca.<br>
-RF5: Leitores poderão avaliar Fornecedores.<br> 
-RF6: Fornecedores poderão avaliar Leitores<br> 
-RF7: Leitores poderão ver a avaliação dos Fornecedores.<br>
-RF8: Leitores poderão filtrar a busca de livros por gênero literário.<br>
-RF9: Usuarios poderão atualizar suas informações.
+Requisitos Funcionais (RF):
+* RF1: Leitores e fornecedores poderão se cadastrar. 
+* RF2: Leitores e fornecedores poderão negociar dentro do sistema através do site. 
+* RF3: Leitores poderão consultar livros. 
+* RF4: Fornecedores poderão cadastrar livros no sistema para troca.
+* RF5: Leitores poderão avaliar Fornecedores.
+* RF6: Fornecedores poderão avaliar Leitores 
+* RF7: Leitores poderão ver a avaliação dos Fornecedores.
+* RF8: Leitores poderão filtrar a busca de livros por gênero literário.
+* RF9: Usuarios poderão atualizar suas informações.
 
 
-Requisitos Não Funcionais (RNF): <br>
-RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. <br>
-RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. <br>
-RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).<br>
+Requisitos Não Funcionais (RNF): 
+* RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. 
+* RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. 
+* RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
 
 
 
