@@ -19,7 +19,7 @@ Rafael de Faria Neves Alves Franco<br>
 
 ## Problema
 
-A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados. Utilizaremos as linguagens HTML/CSS e Java Script para desenvolvimento da plataforma,
+A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados. Utilizaremos as linguagens HTML/CSS e JavaScript para desenvolvimento da plataforma,
 
 
 ## Objetivos
@@ -141,7 +141,7 @@ Requisitos Funcionais (RF):
 
 
 Requisitos Não Funcionais (RNF): 
-* RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. 
+* RFN1: O sistema será desenvolvido usando HTML, CSS, JavaScript. 
 * RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. 
 * RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
 
