@@ -213,18 +213,14 @@ Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metod
 
 <h3>Ferramentas:</h3>
 Para a execução e gerenciamento do projeto "Booktrade", utilizamos um conjunto diversificado de ferramentas tecnológicas que nos permitiram desenvolver, colaborar e gerenciar eficientemente todas as etapas do projeto. A seguir, detalhamos as principais ferramentas empregadas:
-* Visual Studio Code (VS Code)
-* Figma
-* Node.js
-* Canva
-* GitHub
-
-<p>Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)</p>
-<p>Protótipo Interativo:	 Figma - [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)</p>
-<! --
+<li> Visual Studio Code (VS Code)</li>
+<li>Figma</li>
+<li>Node.js</li>
+<li>Canva</li>
+<li>GitHub</li>
 
 <h3>Processo:</h3>
-Durante o projeto, seguimos uma abordagem baseada nas metodologias ágeis, especificamente o Design Thinking e o Framework Scrum. O processo foi estruturado em sprints, com reuniões diárias (daily stand-ups) para discutir o andamento das tarefas e resolver impedimentos. Atribuímos papéis claros para cada membro da equipe e utilizamos ferramentas on-line para acompanhar o progresso do projeto.
+<p>Durante o projeto, seguimos uma abordagem baseada nas metodologias ágeis, especificamente o Design Thinking e o Framework Scrum. O processo foi estruturado em sprints, com reuniões diárias (daily stand-ups) para discutir o andamento das tarefas e resolver impedimentos. Atribuímos papéis claros para cada membro da equipe e utilizamos ferramentas on-line para acompanhar o progresso do projeto.</p>
 
 <h3>Atribuições:</h3>
 Rachunhos de Wireframes: <br>
@@ -248,3 +244,5 @@ Coloque detalhes sobre o processo de Design Thinking e a implementação do Fram
 - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
 - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)
+- Protótipo Interativo - Figma: [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)
