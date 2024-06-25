@@ -15,19 +15,6 @@ Rafael de Faria Neves Alves Franco<br>
 
 <h3>Contexto:</h3>
 <p>Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.</p>
-<h3>Metodologia</h3>
-Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metodo Scrum.
-<h4>Ferramentas</h4>
-<p>Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)</p>
-<p>Protótipo Interativo:	 Figma - [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)</p>
-<! --
-4. Concepção
-5. Realizar trocas e vendas de livros usados entre os usuários.
-6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
-7. FAQ (Questões frequentes)
-8. Referências Bibliográficas-->
-<! --
-O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.-->
 
 # Orientações gerais
 
@@ -221,8 +208,25 @@ Requisitos Não Funcionais (RNF):
 
 Link Interativo: https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55
 
-## Gestão de Projetos
+## Metodologia
+Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metodo Scrum.<br><br>
 
+<h3>Ferramentas:</h3>
+Para a execução e gerenciamento do projeto "Booktrade", utilizamos um conjunto diversificado de ferramentas tecnológicas que nos permitiram desenvolver, colaborar e gerenciar eficientemente todas as etapas do projeto. A seguir, detalhamos as principais ferramentas empregadas:
+* Visual Studio Code (VS Code)
+* Figma
+* Node.js
+* Canva
+* GitHub
+
+<p>Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)</p>
+<p>Protótipo Interativo:	 Figma - [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)</p>
+<! --
+
+<h3>Processo:</h3>
+Durante o projeto, seguimos uma abordagem baseada nas metodologias ágeis, especificamente o Design Thinking e o Framework Scrum. O processo foi estruturado em sprints, com reuniões diárias (daily stand-ups) para discutir o andamento das tarefas e resolver impedimentos. Atribuímos papéis claros para cada membro da equipe e utilizamos ferramentas on-line para acompanhar o progresso do projeto.
+
+<h3>Atribuições:</h3>
 Rachunhos de Wireframes: <br>
 Arthur Henrique Silva Gomes: Quem somo <br>
 Diogo Henrique Moreira da Silva: Pagina de login e Cadastro de Livros <br>
@@ -232,8 +236,8 @@ Rafael de Faria Neves Alves Franco: Perfil do livro e Chat <br>
 Prototipo de Wireframe:
 Enzo Casaes Figueiró <br>
 Diogo Henrique Moreira da Silva<br>
-<br>
- Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
+
+Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
 
