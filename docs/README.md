@@ -16,9 +16,6 @@ Rafael de Faria Neves Alves Franco<br>
 <h3>Contexto:</h3>
 <p>Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.</p>
 
-# Orientações gerais
-
-Esta seção traz explicações breves sobre o conjunto de artefatos que precisam ser incluídos na documentação do projeto com uma conjunto de links importantes para que se entenda como criar cada coisa. 
 
 ## Problema
 
