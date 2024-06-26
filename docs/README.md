@@ -42,6 +42,8 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/130320728/d0cc31e9-08f5-4552-8f01-0e8bb5ea19ad)
 
+<p>O público-alvo do seu site é bem diversificado e dividido em três categorias principais. Na categoria dos influenciadores, estão as livrarias, editoras e influenciadores literários, que desempenham um papel crucial na divulgação e promoção de livros. Na categoria dos importantes, encontra-se a comunidade literária e os autores/escritores, que são a base criativa e intelectual do universo literário. Por fim, os fundamentais são os leitores e fornecedores, que são essenciais para o funcionamento do site.</p>
+
 
 ## Personas
 
