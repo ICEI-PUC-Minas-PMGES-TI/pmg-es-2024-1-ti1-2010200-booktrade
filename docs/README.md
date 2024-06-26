@@ -218,7 +218,7 @@ Para a execução e gerenciamento do projeto "Booktrade", utilizamos um conjunto
 
 <h3>Processo:</h3>
 <p>Durante o projeto, seguimos uma abordagem baseada nas metodologias ágeis, especificamente o Design Thinking e o Framework Scrum. O processo foi estruturado em sprints, com reuniões diárias (daily stand-ups) para discutir o andamento das tarefas e resolver impedimentos. Atribuímos papéis claros para cada membro da equipe e utilizamos ferramentas on-line para acompanhar o progresso do projeto.</p>
-<li>Sprint 1: Fizemos o protótipos das telas, além do Desing Thinking.</li>
+<li>Sprint 1: Fizemos o protótipos das telas, além do Design Thinking.</li>
 <li>Sprint 2: Foram feitas todas as telas do site.</li>
 <li>Sprint 3: Além das dividas técnicas geradas na sprint anterior, também ouve incremento nas telas e o começo da integração.</li>
 <li>Sprint 4: Foi feito a finalização da integração de todas as telas, a apresentação do trabalho e video do programa para  
