@@ -194,16 +194,20 @@ Requisitos Não Funcionais (RNF):
 
 
 ## Wireframes
-
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4a7e98d6-a21c-4a07-9725-91045e10689b)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/6b93e219-d1d2-41ea-833d-9808740e73a3)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/c208adde-cce7-4345-82b3-96fa0452f2da)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b736ba2f-84da-4438-8b06-e6ad24478df1)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/fa356499-e4c3-4938-a247-5721464e7ae2)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/a94ce5ac-3344-46cd-9759-c54ff87e425a)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4998b134-59f4-4d07-b1ed-c00890c61d48)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b48956fc-0bef-4253-91d3-2395f6ff5616)
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/81992497-a197-492f-8089-c7fa7571f5e8)
+**Página Principal:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4a7e98d6-a21c-4a07-9725-91045e10689b)<br>
+<br>**Página do Livro:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/6b93e219-d1d2-41ea-833d-9808740e73a3)<br>
+<br>**Pagina de Cadastro do Livro:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/c208adde-cce7-4345-82b3-96fa0452f2da)<br>
+<br>**Pop-up Avalição do Usuário:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b736ba2f-84da-4438-8b06-e6ad24478df1)<br>
+<br>**Login do Usuário:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/fa356499-e4c3-4938-a247-5721464e7ae2)<br>
+<br>**Pagina do Chat:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4998b134-59f4-4d07-b1ed-c00890c61d48)<br>
+<br>**Página Quem Somos:**<br>
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b48956fc-0bef-4253-91d3-2395f6ff5616)<br>
 
 Link Interativo: https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55
 
@@ -240,6 +244,9 @@ Diogo Henrique Moreira da Silva
 Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
+## Solução Implementada (funcionalidades de software) 
+
 
 **Links Úteis**:
 
