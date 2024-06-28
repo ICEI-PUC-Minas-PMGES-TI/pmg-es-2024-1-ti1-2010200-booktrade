@@ -1,63 +1,31 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Site para Troca de Livros - BookTrade
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Silva Gomes
+    given-names: Arthur Henrique 
+  - family-names: Moreira da Silva
+    given-names: Digo Henrique
+  - family-names: Casaes Figueiro
+    given-names: Enzo 
+  - family-names: de Oliveira Antunes
+    given-names: Marcos 
+  - family-names: Mendonça Faria
+    given-names: Pedro 
+  - family-names: Faria Neves Alves Franco
+    given-names:Rafael 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Carneiro Aramuni
+    given-names: João Paulo 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Soares de Andrade
+    given-names: Michelle Hanne 
 keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
-=======
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-keywords:
-  - 
-  - 
+  - Troca de Livros
+  - Livros
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
