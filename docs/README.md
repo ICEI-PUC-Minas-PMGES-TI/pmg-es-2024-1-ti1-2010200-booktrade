@@ -246,7 +246,49 @@ Nesta parte do documento, você deve apresentar  o processo de trabalho baseado 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
 
 ## Solução Implementada (funcionalidades de software) 
+**Página Inicial:**
+![Sem título](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/ef3dbc75-f125-4a8b-b6ef-52067e05ebac)
+Na págnia inicia pode-se ver alguns dos livros registrados no site, alem de filtra-los por gênero. Atráves dos botões o usuario pode ser redirecionado para: a página de detalhes do livro, perfil do usuário, login e página de adicionar livros.
 
+**Login:**
+![Login](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/8d70ac76-2033-4cc4-89f7-8b9f9867c12b)
+O usuário pode logar no site, se ja tiver uma conta, ou então ser redirecionado para a página de cadastro para criar uma conta.
+
+**Cadastro de Usuário:**
+![cadastro de usuario](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/144c41f6-50d9-49b6-8c9c-f11f5e476a42)
+Nesta página o usuário deve adicionar todos os dados pedidos no formulário, após isso sua conta é registrada e então é redirecionada para página de login.
+
+**Cadastro do Livro**
+![Cadastrar Livro](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/8ad20190-e09e-426c-8fcb-82936c0fbfe3)
+Através da página inicial o usuário, caso logado,  é redirecionado para esta página onde pode registrar um anuncio para seu livro. Todos campos devem ser preenchidos para a publicação do anúncio.
+
+**Perfil de Usuário:**
+![Perfil de Usuario](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/74295773-4317-41b6-8741-dc38031e5219)
+Através desta página o usuário visualiza suas infromações e excluir sua conta, além de poderem alterar sua foto de perfil e ser redirecionado para página de alteração de dados e para a página de display dos livros.
+
+**Alterar dados do Usuário:**
+![Alterar dados do Usuario](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/1cfeb33d-4054-42a8-8083-454c5befe068)
+Por meio dessa página os dados do usuário são alterados. O formulário já será pré-carregado com os dados presentes no perfil e para enviar o formuláeio é preciso preencher todos os dados.
+
+**Display de Livros:**
+![Display de Livros](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/8b3c25cc-c94d-4b94-94fa-ffdc9b597056)
+Todos os livros cadastrados no site pelo usuário logado são mostrados nesta página. Além disso podem ser excluidos por aqui e redirecionado para outra página onde poderá alterar as informações do livro.
+
+**Edição do Anúncio:**
+![Editar dados de livro](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/1f43ea29-bb20-4949-b35f-4d88c579cf3a)
+Nesta página o anúnciante pode alterar as informações do anúncio.
+
+**Pagina do Anúncio do Livro:**
+![Detalhes Livro](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/a3e09e38-123d-41c2-a86a-1d1c34dc8748)
+Após clicar em um icone de um anúncio o usuário é levado para esta página, nela é possivel ver os detalhes do anuncio (cidade, estado, sinopse, detalhes), foto e a avaliação do anúnciante, além de poder entrar no chat com o anúnciante deste livro.
+
+**Chat:**
+![Chat](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/55079073-9371-44c5-a4d6-6725bad3d644)
+Aqui é possivel conversar com o anunciante do livro no qual o usuário esta interessado, assim podendo negociar valores, local de encontro, ou pedir mais informações sobre o livro. Ao clicar em "Finalizado" o anúncio é fechado e então é possivel avaliar o outro usuário.
+
+**Avaliação:**
+![Avaliação](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/cb95f604-bd49-4479-a1c1-321c35ac74da)
+É possivel avaliar outros usuários após finalizar o chat e fechar o anúncio. A nota da avaliação de um usuário pode ser visto na pagina do anúncio.
 
 **Links Úteis**:
 
