@@ -231,15 +231,27 @@ Para a execução e gerenciamento do projeto "Booktrade", utilizamos um conjunto
     divulgação e resolução das dividas técnicas. </li>
 
 <h3>Atribuições:</h3>
-Rachunhos de Wireframes:
-Arthur Henrique Silva Gomes: Quem somo 
-Diogo Henrique Moreira da Silva: Pagina de login e Cadastro de Livros 
-Marcos de Oliveira Antunes: Avaliação da troca e Perfil de usuario
-Pedro Mendonça Faria: Pagina Filtro
-Rafael de Faria Neves Alves Franco: Perfil do livro e Chat 
-Prototipo de Wireframe:
-Enzo Casaes Figueiró 
-Diogo Henrique Moreira da Silva
+
+**Rachunhos de Wireframes:**
+- Arthur Henrique Silva Gomes: Quem somos;
+- Diogo Henrique Moreira da Silva: Pagina de login e Cadastro de Livros;
+- Marcos de Oliveira Antunes: Avaliação da troca e Perfil de usuario;
+- Pedro Mendonça Faria: Pagina Filtro;
+- Rafael de Faria Neves Alves Franco: Perfil do livro e Chat;
+
+
+**Prototipo de Wireframe:**
+- Enzo Casaes Figueiró 
+- Diogo Henrique Moreira da Silva
+
+
+**Funcionalidades do Site:**
+- Arthur Henrique: Avaliação, Busca;
+- Diogo Henrique: Perfil do Usuário, Pagina de Alteração de Dados;
+- Enzo Casaes: Login, Cadastro de Usuário;
+- Marcos de Oliveira: Pagina Incial, Página "Sobre nós", Integração das páginas;
+- Pedro Mendonça: Chat;
+- Rafael de Faria: Cadastro de Livros, Display de Livros, Edição de Livros;
 
 Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
