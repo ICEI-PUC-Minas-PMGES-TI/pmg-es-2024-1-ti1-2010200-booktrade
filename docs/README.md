@@ -304,6 +304,5 @@ Aqui é possivel conversar com o anunciante do livro no qual o usuário esta int
 
 **Links Úteis**:
 
-- Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)
 - Protótipo Interativo - Figma: [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)
 - Site Hospedado: https://booktrade-delta.vercel.app/index.html
